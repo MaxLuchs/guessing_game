@@ -4,7 +4,7 @@
   
     Using Recursion within Result.map:
 
-# How to do Error-Handling within a Loop
+# How to do Error-Handling within a Loop in Rust
 
 ```
 // Cannot use Closures for recursion.
