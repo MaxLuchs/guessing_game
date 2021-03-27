@@ -5,6 +5,13 @@ authors = ["maxluchs"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "recursion"
+path = "src/recursion.rs"
+
+[[bin]]
+name = "loop"
+path = "src/loop.rs"
 
 [dependencies]
 rand = "0.8.3"
