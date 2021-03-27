@@ -4,6 +4,8 @@
   
     Using Recursion within Result.map:
 
+# How to do Error-Handling within a Loop
+
 ```
 // Cannot use Closures for recursion.
 // Use inline fn instead:
